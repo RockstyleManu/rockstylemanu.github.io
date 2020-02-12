@@ -1,0 +1,24 @@
+h1{
+    font-family: Jokerman;
+    color: rgb(147, 226, 115);
+    background: rgb(248, 248, 248);
+    text-align: center;
+}
+p{
+    font-family: Lucida Handwriting;
+    color: lightgoldenrodyellow;
+    text-align: center;
+    font-size: 16px;
+}
+ul{
+    font-family: MV Boli;
+    color: lightyellow;
+}
+ol{
+    font-family: Harlow Solid;
+    color: oldlace;
+}img{
+    height:400px;
+    width:400px;
+}
+

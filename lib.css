@@ -1,0 +1,20 @@
+h1{
+    font-family: Ink Free;
+    color: rgb(91, 70, 185);
+    background: rgb(82, 31, 31);
+    text-align: center;
+}
+p{
+    font-family: Segoe Print;
+    color: red;
+    text-align: center;
+    font-size: 16px;
+}
+ul{
+    font-family: MV Boli;
+    color: red;
+}
+ol{
+    font-family: Script;
+    color: black;
+}
